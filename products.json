@@ -1,0 +1,72 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "VALUE PACK SUBSCRIPTION",
+    "img": "https://www.thejugobar.com/shop/p/value-pack",  
+    "price": 60.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "STRAWBERRY BASIL",
+    "img": "https://www.thejugobar.com/shop/p/strawberry-basil",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "24 CARROTS",
+    "img": "https://www.thejugobar.com/shop/p/24-carrots",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "BEET IT",
+    "img": "https://www.thejugobar.com/shop/p/beet-it",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "KALE YEAH!",
+    "img": "https://www.thejugobar.com/shop/p/kale-yeah",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "name": "BLACKBERRY SAGE",
+    "img": "https://www.thejugobar.com/shop/p/blackberry-sage",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "name": "PINEAPPLE JALAPEÑO CILANTRO",
+    "img": "https://www.thejugobar.com/shop/p/pineapple-jalepeno-cilantro",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "name": "BELLMANGO",
+    "img": "https://www.thejugobar.com/shop/p/bellmango",
+    "price": 10.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "Book The Pulp Space",
+    "img": "https://www.thejugobar.com/shop/p/product-1-ydar7-e8mlb-r2y28-8dwcc",
+    "price": 250.00,
+    "in_stock": 2000
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "name": "SUPER FOOD SEAMOSS",
+    "img": "https://www.thejugobar.com/shop/p/super-food-seamoss",
+    "price": 45.00,
+    "in_stock": 2000
+  }
+]
